@@ -9,7 +9,7 @@ import time
 # =========================================
 
 # CORREGIDO: Ajustado al primer puerto USB serial por defecto en Linux y velocidad de STM32
-PUERTO = "/dev/ttyUSB0" 
+PUERTO = "/dev/ttyUSB1" 
 BAUDIOS = 115200
 
 PELIGRO = "PELIGRO"
