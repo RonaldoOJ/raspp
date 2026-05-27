@@ -11,7 +11,7 @@ import time
 # NOTA PARA UART (RX/TX): 
 # En Raspberry Pi (pines GPIO 14 y 15): usa "/dev/ttyS0" o "/dev/ttyAMA0"
 # Si usas un adaptador USB-a-UART en Linux: usa "/dev/ttyUSB0"
-PUERTO = "/dev/ttyUSB0" 
+PUERTO = "/dev/ttyUSB3" 
 BAUDIOS = 9600
 
 PELIGRO = "PELIGRO"
